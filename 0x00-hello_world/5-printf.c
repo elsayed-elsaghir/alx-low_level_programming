@@ -2,7 +2,7 @@
 /**
  * main - Entry Point
  * Description : A C Program that print with printf.
- * Return : alawys 0
+ * Return: alawys 0
  */
 int main(void)
 {
