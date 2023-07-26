@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* void reset_to_98 - resets a value of an integer
+* reset_to_98 - resets a value of an integer
 *
 * @n: value of dereferance pointer
 *
